@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Seifo321
-- 👀 I’m interested in Artificial intelligence , Data analysis
+- 👀 I’m interested in  Data Engineering , Data analysis and Machine learning 
 - 🌱 I’m currently learning Data analysis 
-- 💞️ I’m looking to collaborate on any projects related to data analysi or machine learning
+- 💞️ I’m looking to collaborate on any projects related to data analysis or machine learning
 - 📫 How to reach me seifzakaria321@gmail.com
 
 <!---
